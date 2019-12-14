@@ -17,7 +17,7 @@ stack *createStack()
     stack *st = (stack *)malloc(sizeof(stack*));
     if (st == NULL)
     {
-        printf("结构体空");
+        printf("NULL STACK");
         return NULL;
     }
     st->count = 0;
@@ -39,7 +39,7 @@ dataType pop(stack *st)
 {
     if (st->count == 0)
     {
-        printf("空栈");
+        printf("NOT DATA");
         return 0;
     }
     return st->num[--st->count];
