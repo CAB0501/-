@@ -1,0 +1,7 @@
+﻿[*.{cs,vb}]
+
+# IDE0044: 添加只读修饰符
+dotnet_style_readonly_field = true:none
+
+# IDE0060: 删除未使用的参数
+dotnet_code_quality_unused_parameters = all:none
