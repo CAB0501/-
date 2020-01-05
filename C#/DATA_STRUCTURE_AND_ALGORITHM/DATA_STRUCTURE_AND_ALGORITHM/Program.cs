@@ -1,14 +1,12 @@
 ﻿using System;
 
-namespace DATA_STRUCTURE_AND_ALGORITHM
+namespace 快速排序_Quick_sort_
 {
-    class Program
+    internal class Program
     {
-        private static int[] nums = { 72, 6, 57, 88, 60, 42, 83, 73, 48, 85 };
-
         private static int QuickSort(int[] arr, int right, int left)
         {
-            var temp = arr[right];
+            int temp = arr[right];
             while (right < left)
             {
                 while (right < left && arr[left] > temp)
@@ -29,7 +27,7 @@ namespace DATA_STRUCTURE_AND_ALGORITHM
                     arr[left] = arr[right];
                     left--;
                 }
-            } 
+            }
             if (right == left)
             {
                 arr[right] = temp;
@@ -41,21 +39,22 @@ namespace DATA_STRUCTURE_AND_ALGORITHM
         {
             if (right < left)
             {
-                var pivot = QuickSort(nums, right, left);
-                Divide(nums, right, pivot - 1);
-                Divide(nums, pivot + 1, left);
+                int pivot = QuickSort(arr, right, left);
+                Divide(arr, right, pivot - 1);
+                Divide(arr, pivot + 1, left);
             }
         }
 
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
+            int[] nums = { 72, 6, 57, 88, 60, 42, 83, 73, 48, 85 };
             Divide(nums, 0, nums.Length - 1);
-            var sortnums = "";
-            foreach (var num in nums)
+            string sortnums = "";
+            foreach (int num in nums)
             {
                 sortnums += $"{num.ToString()},";
             }
-            Console.WriteLine(""[0..^1]);
+            Console.WriteLine(sortnums[0..^1]);
         }
     }
 }
