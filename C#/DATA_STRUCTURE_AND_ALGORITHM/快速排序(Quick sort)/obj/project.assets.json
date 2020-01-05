@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\练习\\C#\\DATA_STRUCTURE_AND_ALGORITHM\\DATA_STRUCTURE_AND_ALGORITHM\\快速排序(Quick sort).csproj",
+      "projectUniqueName": "F:\\练习\\C#\\DATA_STRUCTURE_AND_ALGORITHM\\快速排序(Quick sort)\\快速排序(Quick sort).csproj",
       "projectName": "快速排序(Quick sort)",
-      "projectPath": "F:\\练习\\C#\\DATA_STRUCTURE_AND_ALGORITHM\\DATA_STRUCTURE_AND_ALGORITHM\\快速排序(Quick sort).csproj",
+      "projectPath": "F:\\练习\\C#\\DATA_STRUCTURE_AND_ALGORITHM\\快速排序(Quick sort)\\快速排序(Quick sort).csproj",
       "packagesPath": "C:\\Users\\chenqun\\.nuget\\packages\\",
-      "outputPath": "F:\\练习\\C#\\DATA_STRUCTURE_AND_ALGORITHM\\DATA_STRUCTURE_AND_ALGORITHM\\obj\\",
+      "outputPath": "F:\\练习\\C#\\DATA_STRUCTURE_AND_ALGORITHM\\快速排序(Quick sort)\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
