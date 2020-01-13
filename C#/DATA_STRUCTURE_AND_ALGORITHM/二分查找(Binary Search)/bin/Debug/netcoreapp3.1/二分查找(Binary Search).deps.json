@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "快速排序(Quick Sort)/1.0.0": {
+      "二分查找(Binary Search)/1.0.0": {
         "runtime": {
-          "快速排序(Quick Sort).dll": {}
+          "二分查找(Binary Search).dll": {}
         }
       }
     }
   },
   "libraries": {
-    "快速排序(Quick Sort)/1.0.0": {
+    "二分查找(Binary Search)/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace 快速排序_Quick_sort_
+namespace 快速排序_Quick_Sort_
 {
     internal class Program
     {

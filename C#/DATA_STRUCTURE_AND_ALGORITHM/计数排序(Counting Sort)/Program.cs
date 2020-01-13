@@ -10,15 +10,14 @@ namespace 计数排序_Counting_Sort_
             {
                 return;
             }
-            int i = 1;
+            int i = 0;
             int max = arr[0];
-            while (i < n)
+            while (++i < n)
             {
                 if (max < arr[i])
                 {
                     max = arr[i];
                 }
-                i++;
             }
             int[] count = new int[max + 1];
             i = 0;
@@ -27,15 +26,15 @@ namespace 计数排序_Counting_Sort_
                 count[arr[i++]]++;
             }
             int[] sort = new int[n];
-            i = 0;
-            int j = 0;
+            i = 1;
             while (i < count.Length)
             {
-                while (count[i]-- > 0)
-                {
-                    sort[j++] = i;
-                }
-                i++;
+                count[i] = count[i - 1] + count[i++];
+            }
+            i = n - 1;
+            while (i >= 0)
+            {
+                sort[--count[arr[i]]] = arr[i--];
             }
             i = 0;
             while (i < n)
