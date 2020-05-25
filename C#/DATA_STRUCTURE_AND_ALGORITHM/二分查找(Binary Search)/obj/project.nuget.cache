@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ESjR4HJhvgzJE3g6x0VRC1DpD/3RwoMZVg7SGieBG85bV4P5ImvfXP6s3RxXBztWstpxl9CaqMytAP4fDkJJKw==",
+  "success": true,
+  "projectFilePath": "F:\\练习\\exercise\\C#\\DATA_STRUCTURE_AND_ALGORITHM\\二分查找(Binary Search)\\二分查找(Binary Search).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chenqun\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

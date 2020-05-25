@@ -20,3 +20,16 @@ F:\练习\C#\DATA_STRUCTURE_AND_ALGORITHM\快速排序(Quick sort)\obj\Debug\net
 F:\练习\C#\DATA_STRUCTURE_AND_ALGORITHM\快速排序(Quick sort)\obj\Debug\netcoreapp3.1\快速排序(Quick Sort).AssemblyInfo.cs
 F:\练习\C#\DATA_STRUCTURE_AND_ALGORITHM\快速排序(Quick sort)\obj\Debug\netcoreapp3.1\快速排序(Quick Sort).dll
 F:\练习\C#\DATA_STRUCTURE_AND_ALGORITHM\快速排序(Quick sort)\obj\Debug\netcoreapp3.1\快速排序(Quick Sort).pdb
+F:\练习\exercise\C#\DATA_STRUCTURE_AND_ALGORITHM\快速排序(Quick sort)\bin\Debug\netcoreapp3.1\快速排序(Quick Sort).exe
+F:\练习\exercise\C#\DATA_STRUCTURE_AND_ALGORITHM\快速排序(Quick sort)\bin\Debug\netcoreapp3.1\快速排序(Quick Sort).deps.json
+F:\练习\exercise\C#\DATA_STRUCTURE_AND_ALGORITHM\快速排序(Quick sort)\bin\Debug\netcoreapp3.1\快速排序(Quick Sort).runtimeconfig.json
+F:\练习\exercise\C#\DATA_STRUCTURE_AND_ALGORITHM\快速排序(Quick sort)\bin\Debug\netcoreapp3.1\快速排序(Quick Sort).runtimeconfig.dev.json
+F:\练习\exercise\C#\DATA_STRUCTURE_AND_ALGORITHM\快速排序(Quick sort)\bin\Debug\netcoreapp3.1\快速排序(Quick Sort).dll
+F:\练习\exercise\C#\DATA_STRUCTURE_AND_ALGORITHM\快速排序(Quick sort)\bin\Debug\netcoreapp3.1\快速排序(Quick Sort).pdb
+F:\练习\exercise\C#\DATA_STRUCTURE_AND_ALGORITHM\快速排序(Quick sort)\obj\Debug\netcoreapp3.1\快速排序(Quick Sort).csprojAssemblyReference.cache
+F:\练习\exercise\C#\DATA_STRUCTURE_AND_ALGORITHM\快速排序(Quick sort)\obj\Debug\netcoreapp3.1\快速排序(Quick Sort).AssemblyInfoInputs.cache
+F:\练习\exercise\C#\DATA_STRUCTURE_AND_ALGORITHM\快速排序(Quick sort)\obj\Debug\netcoreapp3.1\快速排序(Quick Sort).AssemblyInfo.cs
+F:\练习\exercise\C#\DATA_STRUCTURE_AND_ALGORITHM\快速排序(Quick sort)\obj\Debug\netcoreapp3.1\快速排序(Quick Sort).csproj.CoreCompileInputs.cache
+F:\练习\exercise\C#\DATA_STRUCTURE_AND_ALGORITHM\快速排序(Quick sort)\obj\Debug\netcoreapp3.1\快速排序(Quick Sort).dll
+F:\练习\exercise\C#\DATA_STRUCTURE_AND_ALGORITHM\快速排序(Quick sort)\obj\Debug\netcoreapp3.1\快速排序(Quick Sort).pdb
+F:\练习\exercise\C#\DATA_STRUCTURE_AND_ALGORITHM\快速排序(Quick sort)\obj\Debug\netcoreapp3.1\快速排序(Quick Sort).genruntimeconfig.cache

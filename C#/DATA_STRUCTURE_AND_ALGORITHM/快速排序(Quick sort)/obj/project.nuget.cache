@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yr9ZcMowPYaIdrRS9/o+8Bfz38KOZdEc76Yj7yPv0GN+sMfCUQA6/ijqompEa8AzV4w59NuFSzEcuwgR0H4Lgw==",
+  "success": true,
+  "projectFilePath": "F:\\练习\\exercise\\C#\\DATA_STRUCTURE_AND_ALGORITHM\\快速排序(Quick sort)\\快速排序(Quick Sort).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chenqun\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
