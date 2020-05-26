@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iH6uOmCP1I9KL4E3XJML9Bjj5xLICixMPFJ+4eVH+6n/oIZwqqSheGb88nBuvXKMFrl5iLgNdpDcxVl/Ra63NA==",
+  "success": true,
+  "projectFilePath": "F:\\练习\\exercise\\C#\\DATA_STRUCTURE_AND_ALGORITHM\\SelectSort\\选择排序(Select Sort).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chenqun\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

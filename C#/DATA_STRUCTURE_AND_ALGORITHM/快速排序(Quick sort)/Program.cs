@@ -6,6 +6,11 @@ namespace 快速排序_Quick_Sort_
 	{
 		private static int QuickSort(int[] arr, int right, int left)
 		{
+			if (arr is null)
+			{
+				return -1;
+			}
+
 			int temp = arr[right];
 			while (right < left)
 			{

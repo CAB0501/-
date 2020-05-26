@@ -6,6 +6,11 @@ namespace 计数排序_Counting_Sort_
 	{
 		private static void CountingSort(int[] arr, int n)
 		{
+			if (arr is null)
+			{
+				return;
+			}
+
 			if (n <= 1)
 			{
 				return;

@@ -6,6 +6,11 @@ namespace 二分查找_Binary_Search_
 	{
 		private static int BinarySearch(int[] arr, int n)
 		{
+			if (arr is null)
+			{
+				return -1;
+			}
+
 			if (arr.Length <= 0)
 			{
 				return -1;
