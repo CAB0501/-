@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "二分查找(Binary Search)
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "冒泡排序(Bubble Sort)", "冒泡排序(Bubble Sort)\冒泡排序(Bubble Sort).csproj", "{A642A7BA-BFAF-44CE-9DDC-7EF562963C80}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "选择排序(Select Sort)", "SelectSort\选择排序(Select Sort).csproj", "{2412374D-2DDD-43F7-BFCE-0DE333C1E4DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "选择排序(Select Sort)", "选择排序(Select Sort)\选择排序(Select Sort).csproj", "{5B204BC5-A0BD-4F23-91D4-C19CD93A951D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,10 +35,10 @@ Global
 		{A642A7BA-BFAF-44CE-9DDC-7EF562963C80}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A642A7BA-BFAF-44CE-9DDC-7EF562963C80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A642A7BA-BFAF-44CE-9DDC-7EF562963C80}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2412374D-2DDD-43F7-BFCE-0DE333C1E4DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2412374D-2DDD-43F7-BFCE-0DE333C1E4DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2412374D-2DDD-43F7-BFCE-0DE333C1E4DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2412374D-2DDD-43F7-BFCE-0DE333C1E4DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B204BC5-A0BD-4F23-91D4-C19CD93A951D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B204BC5-A0BD-4F23-91D4-C19CD93A951D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B204BC5-A0BD-4F23-91D4-C19CD93A951D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B204BC5-A0BD-4F23-91D4-C19CD93A951D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

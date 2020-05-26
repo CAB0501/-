@@ -1,0 +1,24 @@
+F:\练习\exercise\C#\DATA_STRUCTURE_AND_ALGORITHM\SelectSort\bin\Debug\netcoreapp3.1\选择排序(Select Sort).exe
+F:\练习\exercise\C#\DATA_STRUCTURE_AND_ALGORITHM\SelectSort\bin\Debug\netcoreapp3.1\选择排序(Select Sort).deps.json
+F:\练习\exercise\C#\DATA_STRUCTURE_AND_ALGORITHM\SelectSort\bin\Debug\netcoreapp3.1\选择排序(Select Sort).runtimeconfig.json
+F:\练习\exercise\C#\DATA_STRUCTURE_AND_ALGORITHM\SelectSort\bin\Debug\netcoreapp3.1\选择排序(Select Sort).runtimeconfig.dev.json
+F:\练习\exercise\C#\DATA_STRUCTURE_AND_ALGORITHM\SelectSort\bin\Debug\netcoreapp3.1\选择排序(Select Sort).dll
+F:\练习\exercise\C#\DATA_STRUCTURE_AND_ALGORITHM\SelectSort\bin\Debug\netcoreapp3.1\选择排序(Select Sort).pdb
+F:\练习\exercise\C#\DATA_STRUCTURE_AND_ALGORITHM\SelectSort\obj\Debug\netcoreapp3.1\选择排序(Select Sort).AssemblyInfoInputs.cache
+F:\练习\exercise\C#\DATA_STRUCTURE_AND_ALGORITHM\SelectSort\obj\Debug\netcoreapp3.1\选择排序(Select Sort).AssemblyInfo.cs
+F:\练习\exercise\C#\DATA_STRUCTURE_AND_ALGORITHM\SelectSort\obj\Debug\netcoreapp3.1\选择排序(Select Sort).csproj.CoreCompileInputs.cache
+F:\练习\exercise\C#\DATA_STRUCTURE_AND_ALGORITHM\SelectSort\obj\Debug\netcoreapp3.1\选择排序(Select Sort).dll
+F:\练习\exercise\C#\DATA_STRUCTURE_AND_ALGORITHM\SelectSort\obj\Debug\netcoreapp3.1\选择排序(Select Sort).pdb
+F:\练习\exercise\C#\DATA_STRUCTURE_AND_ALGORITHM\SelectSort\obj\Debug\netcoreapp3.1\选择排序(Select Sort).genruntimeconfig.cache
+F:\练习\exercise\C#\DATA_STRUCTURE_AND_ALGORITHM\选择排序(Select Sort)\bin\Debug\netcoreapp3.1\选择排序(Select Sort).exe
+F:\练习\exercise\C#\DATA_STRUCTURE_AND_ALGORITHM\选择排序(Select Sort)\bin\Debug\netcoreapp3.1\选择排序(Select Sort).deps.json
+F:\练习\exercise\C#\DATA_STRUCTURE_AND_ALGORITHM\选择排序(Select Sort)\bin\Debug\netcoreapp3.1\选择排序(Select Sort).runtimeconfig.json
+F:\练习\exercise\C#\DATA_STRUCTURE_AND_ALGORITHM\选择排序(Select Sort)\bin\Debug\netcoreapp3.1\选择排序(Select Sort).runtimeconfig.dev.json
+F:\练习\exercise\C#\DATA_STRUCTURE_AND_ALGORITHM\选择排序(Select Sort)\bin\Debug\netcoreapp3.1\选择排序(Select Sort).dll
+F:\练习\exercise\C#\DATA_STRUCTURE_AND_ALGORITHM\选择排序(Select Sort)\bin\Debug\netcoreapp3.1\选择排序(Select Sort).pdb
+F:\练习\exercise\C#\DATA_STRUCTURE_AND_ALGORITHM\选择排序(Select Sort)\obj\Debug\netcoreapp3.1\选择排序(Select Sort).AssemblyInfoInputs.cache
+F:\练习\exercise\C#\DATA_STRUCTURE_AND_ALGORITHM\选择排序(Select Sort)\obj\Debug\netcoreapp3.1\选择排序(Select Sort).AssemblyInfo.cs
+F:\练习\exercise\C#\DATA_STRUCTURE_AND_ALGORITHM\选择排序(Select Sort)\obj\Debug\netcoreapp3.1\选择排序(Select Sort).csproj.CoreCompileInputs.cache
+F:\练习\exercise\C#\DATA_STRUCTURE_AND_ALGORITHM\选择排序(Select Sort)\obj\Debug\netcoreapp3.1\选择排序(Select Sort).dll
+F:\练习\exercise\C#\DATA_STRUCTURE_AND_ALGORITHM\选择排序(Select Sort)\obj\Debug\netcoreapp3.1\选择排序(Select Sort).pdb
+F:\练习\exercise\C#\DATA_STRUCTURE_AND_ALGORITHM\选择排序(Select Sort)\obj\Debug\netcoreapp3.1\选择排序(Select Sort).genruntimeconfig.cache

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\练习\\exercise\\C#\\DATA_STRUCTURE_AND_ALGORITHM\\SelectSort\\选择排序(Select Sort).csproj",
+      "projectUniqueName": "F:\\练习\\exercise\\C#\\DATA_STRUCTURE_AND_ALGORITHM\\选择排序(Select Sort)\\选择排序(Select Sort).csproj",
       "projectName": "选择排序(Select Sort)",
-      "projectPath": "F:\\练习\\exercise\\C#\\DATA_STRUCTURE_AND_ALGORITHM\\SelectSort\\选择排序(Select Sort).csproj",
+      "projectPath": "F:\\练习\\exercise\\C#\\DATA_STRUCTURE_AND_ALGORITHM\\选择排序(Select Sort)\\选择排序(Select Sort).csproj",
       "packagesPath": "C:\\Users\\chenqun\\.nuget\\packages\\",
-      "outputPath": "F:\\练习\\exercise\\C#\\DATA_STRUCTURE_AND_ALGORITHM\\SelectSort\\obj\\",
+      "outputPath": "F:\\练习\\exercise\\C#\\DATA_STRUCTURE_AND_ALGORITHM\\选择排序(Select Sort)\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\chenqun\\AppData\\Roaming\\NuGet\\NuGet.Config",

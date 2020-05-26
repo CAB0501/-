@@ -4,7 +4,6 @@ F:\练习\exercise\C#\DATA_STRUCTURE_AND_ALGORITHM\冒泡排序(Bubble Sort)\bin
 F:\练习\exercise\C#\DATA_STRUCTURE_AND_ALGORITHM\冒泡排序(Bubble Sort)\bin\Debug\netcoreapp3.1\冒泡排序(Bubble Sort).runtimeconfig.dev.json
 F:\练习\exercise\C#\DATA_STRUCTURE_AND_ALGORITHM\冒泡排序(Bubble Sort)\bin\Debug\netcoreapp3.1\冒泡排序(Bubble Sort).dll
 F:\练习\exercise\C#\DATA_STRUCTURE_AND_ALGORITHM\冒泡排序(Bubble Sort)\bin\Debug\netcoreapp3.1\冒泡排序(Bubble Sort).pdb
-F:\练习\exercise\C#\DATA_STRUCTURE_AND_ALGORITHM\冒泡排序(Bubble Sort)\obj\Debug\netcoreapp3.1\冒泡排序(Bubble Sort).csprojAssemblyReference.cache
 F:\练习\exercise\C#\DATA_STRUCTURE_AND_ALGORITHM\冒泡排序(Bubble Sort)\obj\Debug\netcoreapp3.1\冒泡排序(Bubble Sort).AssemblyInfoInputs.cache
 F:\练习\exercise\C#\DATA_STRUCTURE_AND_ALGORITHM\冒泡排序(Bubble Sort)\obj\Debug\netcoreapp3.1\冒泡排序(Bubble Sort).AssemblyInfo.cs
 F:\练习\exercise\C#\DATA_STRUCTURE_AND_ALGORITHM\冒泡排序(Bubble Sort)\obj\Debug\netcoreapp3.1\冒泡排序(Bubble Sort).csproj.CoreCompileInputs.cache
