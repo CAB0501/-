@@ -1,0 +1,12 @@
+F:\练习\exercise\C#\DATA_STRUCTURE_AND_ALGORITHM\插入排序(Insertion Sort)\bin\Debug\netcoreapp3.1\插入排序(Insertion Sort).exe
+F:\练习\exercise\C#\DATA_STRUCTURE_AND_ALGORITHM\插入排序(Insertion Sort)\bin\Debug\netcoreapp3.1\插入排序(Insertion Sort).deps.json
+F:\练习\exercise\C#\DATA_STRUCTURE_AND_ALGORITHM\插入排序(Insertion Sort)\bin\Debug\netcoreapp3.1\插入排序(Insertion Sort).runtimeconfig.json
+F:\练习\exercise\C#\DATA_STRUCTURE_AND_ALGORITHM\插入排序(Insertion Sort)\bin\Debug\netcoreapp3.1\插入排序(Insertion Sort).runtimeconfig.dev.json
+F:\练习\exercise\C#\DATA_STRUCTURE_AND_ALGORITHM\插入排序(Insertion Sort)\bin\Debug\netcoreapp3.1\插入排序(Insertion Sort).dll
+F:\练习\exercise\C#\DATA_STRUCTURE_AND_ALGORITHM\插入排序(Insertion Sort)\bin\Debug\netcoreapp3.1\插入排序(Insertion Sort).pdb
+F:\练习\exercise\C#\DATA_STRUCTURE_AND_ALGORITHM\插入排序(Insertion Sort)\obj\Debug\netcoreapp3.1\插入排序(Insertion Sort).AssemblyInfoInputs.cache
+F:\练习\exercise\C#\DATA_STRUCTURE_AND_ALGORITHM\插入排序(Insertion Sort)\obj\Debug\netcoreapp3.1\插入排序(Insertion Sort).AssemblyInfo.cs
+F:\练习\exercise\C#\DATA_STRUCTURE_AND_ALGORITHM\插入排序(Insertion Sort)\obj\Debug\netcoreapp3.1\插入排序(Insertion Sort).csproj.CoreCompileInputs.cache
+F:\练习\exercise\C#\DATA_STRUCTURE_AND_ALGORITHM\插入排序(Insertion Sort)\obj\Debug\netcoreapp3.1\插入排序(Insertion Sort).dll
+F:\练习\exercise\C#\DATA_STRUCTURE_AND_ALGORITHM\插入排序(Insertion Sort)\obj\Debug\netcoreapp3.1\插入排序(Insertion Sort).pdb
+F:\练习\exercise\C#\DATA_STRUCTURE_AND_ALGORITHM\插入排序(Insertion Sort)\obj\Debug\netcoreapp3.1\插入排序(Insertion Sort).genruntimeconfig.cache
